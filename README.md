@@ -1,2 +1,1 @@
-# sailboat_shop
-Projekt sklepu z żaglówkami
+witaj żeglarzu
